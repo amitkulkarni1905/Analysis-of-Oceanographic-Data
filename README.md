@@ -1,4 +1,4 @@
-# Oceanographic-Data-Analysis
+#  Analysis of Oceanographic Data
 
 This is an attempt to analyse the correlation between ocean salinity and ocean temperature
 
